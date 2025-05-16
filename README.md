@@ -4,7 +4,7 @@
 ---
 Konsep ini mencakup berbagai aspek, antara lain:
 
-Efisiensi Energi: Penggunaan teknologi hemat energi seperti lampu LED, peralatan rumah tangga berlabel energi efisien, dan sistem isolasi termal untuk mengurangi kebutuhan pendingin atau pemanas ruangan.
+* Efisiensi Energi: Penggunaan teknologi hemat energi seperti lampu LED, peralatan rumah tangga berlabel energi efisien, dan sistem isolasi termal untuk mengurangi kebutuhan pendingin atau pemanas ruangan.
 
 * Pemanfaatan Energi Terbarukan: Pemasangan panel surya sebagai sumber listrik alternatif yang bersih dan berkelanjutan.
 
